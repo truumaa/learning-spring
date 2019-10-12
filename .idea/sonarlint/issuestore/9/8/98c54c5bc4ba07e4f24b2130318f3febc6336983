@@ -1,0 +1,6 @@
+
+Osquid:S1068
+",Remove this unused "template" private field.(…õúÿÿÿÿ8Ñ—àÚÛ-
+~squid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…õúÿÿÿÿ8ÿÜÚÚÛ-
+\squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(‹®¾8Ù‚ÛÚÛ-
